@@ -78,6 +78,22 @@ $navbar-default-bg: black;
   padding-left: 0;
 }
 
+.badge {
+  background-color: black;
+  // text-transform: uppercase;
+  // letter-spacing: -1px;
+}
+
+.badge a {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+
+.input_checkbox input {
+  width: auto !important;
+}
+
 #about-me ul {
   list-style: none;
 }
