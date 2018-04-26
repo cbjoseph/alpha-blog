@@ -1,1 +1,8 @@
-<h1>Test</h1>
+I'll update the formatting and explanation for this later. Here's the scoop...
+
+Alpha Blog!
+This is a simple blog app. Users can sign-up and create/edit/delete their own articles.
+Administrators have access to create categories and manage users.
+The login feature uses sessions.
+
+Shoutout to loremricksum.com for being a fun Rick and Morty themed lorem ipsum generator.
