@@ -6,3 +6,5 @@ Administrators have access to create categories and manage users.
 The login feature uses sessions.
 
 Shoutout to loremricksum.com for being a fun Rick and Morty themed lorem ipsum generator.
+
+If you'd like to add a profile picture, create an account on gravatar.com with the email you used to sign-up for the Alpha Blog. Needs to be a real email address so that they can verify you.
